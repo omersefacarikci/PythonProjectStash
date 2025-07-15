@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="120" />
+  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/pythonbanner.gif" alt="Banner" />
 </p>
 
 <h1 align="center">PythonDevHub</h1>
