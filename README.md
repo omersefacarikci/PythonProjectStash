@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/img/pythonbanner.gif" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/omersefacarikci/omersefacarikci/main/img/pythonprojectstash.gif" alt="PythonBanner" />
 </p>
 
 <h1 align="center">Python Project Stash</h1>
